@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/jit
+END
+dis_arm.lua
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/jit/dis_arm.lua
+END
+dis_x64.lua
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/jit/dis_x64.lua
+END
+dis_ppc.lua
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/jit/dis_ppc.lua
+END
+bcsave.lua
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/jit/bcsave.lua
+END
+bc.lua
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/jit/bc.lua
+END
+dis_x86.lua
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/jit/dis_x86.lua
+END
+dump.lua
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/jit/dump.lua
+END
+v.lua
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/jit/v.lua
+END
+dis_mips.lua
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/jit/dis_mips.lua
+END
+dis_mipsel.lua
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/jit/dis_mipsel.lua
+END

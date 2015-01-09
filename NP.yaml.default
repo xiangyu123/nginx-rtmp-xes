@@ -1,0 +1,22 @@
+---
+# vim: set ft=yaml:
+# NP 应用（李政的 Nginx 发布应用）的日志目录的上传处理
+-
+    Name: NginxPublishAccessLog
+    Application: NP
+    Path: /data/proclog/accesslog
+    FileNamePattern: "*.log"
+    CheckInterval: 10s
+    Delay: 5
+    Action: Upload
+    UploadOptions:
+        Destination: /proclog/2nd_edition/temp
+        Backup: yes
+        BackupPath: /data/proclog/log-bak
+        CompressMethod: auto
+        TempPostfix: .tmp
+        MaxTasks: 10
+        MaxNumberOfServer: 3
+        MinNumberOfServer: 1
+        WhereTo:
+            Application: NLA(200203010001)

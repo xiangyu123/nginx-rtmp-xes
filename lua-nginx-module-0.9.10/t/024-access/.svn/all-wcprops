@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/024-access
+END
+redirect.t
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/024-access/redirect.t
+END
+auth.t
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/024-access/auth.t
+END
+subrequest.t
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/024-access/subrequest.t
+END
+uthread-exit.t
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/024-access/uthread-exit.t
+END
+request_body.t
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/024-access/request_body.t
+END
+mixed.t
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/024-access/mixed.t
+END
+sanity.t
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/024-access/sanity.t
+END
+sleep.t
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/024-access/sleep.t
+END
+exit.t
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/024-access/exit.t
+END
+uthread-exec.t
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/024-access/uthread-exec.t
+END
+on-abort.t
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/024-access/on-abort.t
+END
+satisfy.t
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/024-access/satisfy.t
+END
+req-body.t
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/024-access/req-body.t
+END
+uthread-spawn.t
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/024-access/uthread-spawn.t
+END
+client-abort.t
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/024-access/client-abort.t
+END
+exec.t
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/024-access/exec.t
+END
+multi-capture.t
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/024-access/multi-capture.t
+END
+uthread-redirect.t
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/024-access/uthread-redirect.t
+END

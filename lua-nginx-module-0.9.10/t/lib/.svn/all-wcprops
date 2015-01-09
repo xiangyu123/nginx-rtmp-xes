@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/lib
+END
+ljson.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/lib/ljson.lua
+END
+Memcached.lua
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/lib/Memcached.lua
+END
+Redis.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/lib/Redis.lua
+END
+CRC32.lua
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/lib/CRC32.lua
+END

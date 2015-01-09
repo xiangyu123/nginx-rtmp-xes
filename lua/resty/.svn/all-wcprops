@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/resty
+END
+lrucache.lua
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/resty/lrucache.lua
+END
+memcached.lua
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/resty/memcached.lua
+END
+redis.lua
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/resty/redis.lua
+END
+simple.lua
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/resty/simple.lua
+END
+http.lua
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/resty/http.lua
+END
+healthcheck.lua
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/resty/healthcheck.lua
+END

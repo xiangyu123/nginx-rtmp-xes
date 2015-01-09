@@ -1,0 +1,785 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t
+END
+022-redirect.t
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/022-redirect.t
+END
+006-escape.t
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/006-escape.t
+END
+104-req-raw-header.t
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/104-req-raw-header.t
+END
+035-gmatch.t
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/035-gmatch.t
+END
+116-raw-req-socket.t
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/116-raw-req-socket.t
+END
+046-hmac.t
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/046-hmac.t
+END
+128-duplex-tcp-socket.t
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/128-duplex-tcp-socket.t
+END
+120-re-find.t
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/120-re-find.t
+END
+052-sub-dfa.t
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/052-sub-dfa.t
+END
+082-body-filter.t
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/082-body-filter.t
+END
+061-lua-redis.t
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/061-lua-redis.t
+END
+007-md5.t
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/007-md5.t
+END
+017-exec.t
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/017-exec.t
+END
+048-match-dfa.t
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/048-match-dfa.t
+END
+066-socket-receiveuntil.t
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/066-socket-receiveuntil.t
+END
+117-raw-req-socket-timeout.t
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/117-raw-req-socket-timeout.t
+END
+108-timer-safe.t
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/108-timer-safe.t
+END
+StapThread.pm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/StapThread.pm
+END
+119-config-prefix.t
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/119-config-prefix.t
+END
+112-req-header-conn.t
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/112-req-header-conn.t
+END
+005-exit.t
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/005-exit.t
+END
+098-uthread-wait.t
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/098-uthread-wait.t
+END
+000--init.t
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/000--init.t
+END
+125-configure-args.t
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/125-configure-args.t
+END
+101-on-abort.t
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/101-on-abort.t
+END
+043-shdict.t
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/043-shdict.t
+END
+045-ngx-var.t
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/045-ngx-var.t
+END
+097-uthread-rewrite.t
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/097-uthread-rewrite.t
+END
+076-no-postpone.t
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/076-no-postpone.t
+END
+107-timer-errors.t
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/107-timer-errors.t
+END
+027-multi-capture.t
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/027-multi-capture.t
+END
+049-gmatch-jit.t
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/049-gmatch-jit.t
+END
+064-pcall.t
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/064-pcall.t
+END
+026-mysql.t
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/026-mysql.t
+END
+011-md5_bin.t
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/011-md5_bin.t
+END
+004-require.t
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/004-require.t
+END
+042-crc32.t
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/042-crc32.t
+END
+100-client-abort.t
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/100-client-abort.t
+END
+029-http-time.t
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/029-http-time.t
+END
+059-unix-socket.t
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/059-unix-socket.t
+END
+013-base64.t
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/013-base64.t
+END
+072-conditional-get.t
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/072-conditional-get.t
+END
+090-log-socket-errors.t
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/090-log-socket-errors.t
+END
+074-prefix-var.t
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/074-prefix-var.t
+END
+050-gmatch-dfa.t
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/050-gmatch-dfa.t
+END
+103-req-http-ver.t
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/103-req-http-ver.t
+END
+115-quote-sql-str.t
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/115-quote-sql-str.t
+END
+118-use-default-type.t
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/118-use-default-type.t
+END
+032-iolist.t
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/032-iolist.t
+END
+085-if.t
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/085-if.t
+END
+109-timer-hup.t
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/109-timer-hup.t
+END
+106-timer.t
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/106-timer.t
+END
+075-logby.t
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/075-logby.t
+END
+121-version.t
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/121-version.t
+END
+113-req-header-cookie.t
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/113-req-header-cookie.t
+END
+073-backtrace.t
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/073-backtrace.t
+END
+030-uri-args.t
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/030-uri-args.t
+END
+070-sha1.t
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/070-sha1.t
+END
+034-match.t
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/034-match.t
+END
+025-codecache.t
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/025-codecache.t
+END
+000-sanity.t
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/000-sanity.t
+END
+071-idle-socket.t
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/071-idle-socket.t
+END
+065-tcp-socket-timeout.t
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/065-tcp-socket-timeout.t
+END
+105-pressure.t
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/105-pressure.t
+END
+080-hup-shdict.t
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/080-hup-shdict.t
+END
+091-coroutine.t
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/091-coroutine.t
+END
+089-phase.t
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/089-phase.t
+END
+123-lua-path.t
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/123-lua-path.t
+END
+110-etag.t
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/110-etag.t
+END
+111-req-header-ua.t
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/111-req-header-ua.t
+END
+044-req-body.t
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/044-req-body.t
+END
+047-match-jit.t
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/047-match-jit.t
+END
+053-gsub-jit.t
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/053-gsub-jit.t
+END
+093-uthread-spawn.t
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/093-uthread-spawn.t
+END
+019-const.t
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/019-const.t
+END
+016-resp-header.t
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/016-resp-header.t
+END
+012-now.t
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/012-now.t
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/.gitignore
+END
+096-uthread-redirect.t
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/096-uthread-redirect.t
+END
+037-gsub.t
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/037-gsub.t
+END
+099-c-api.t
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/099-c-api.t
+END
+003-errors.t
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/003-errors.t
+END
+041-header-filter.t
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/041-header-filter.t
+END
+063-abort.t
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/063-abort.t
+END
+079-unused-directives.t
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/079-unused-directives.t
+END
+031-post-args.t
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/031-post-args.t
+END
+055-subreq-vars.t
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/055-subreq-vars.t
+END
+077-sleep.t
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/077-sleep.t
+END
+008-today.t
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/008-today.t
+END
+058-tcp-socket.t
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/058-tcp-socket.t
+END
+067-req-socket.t
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/067-req-socket.t
+END
+038-match-o.t
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/038-match-o.t
+END
+033-ctx.t
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/033-ctx.t
+END
+084-inclusive-receiveuntil.t
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/084-inclusive-receiveuntil.t
+END
+122-worker.t
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/122-worker.t
+END
+124-init-worker.t
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/124-init-worker.t
+END
+051-sub-jit.t
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/051-sub-jit.t
+END
+078-hup-vars.t
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/078-hup-vars.t
+END
+092-eof.t
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/092-eof.t
+END
+083-bad-sock-self.t
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/083-bad-sock-self.t
+END
+028-req-header.t
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/028-req-header.t
+END
+086-init-by.t
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/086-init-by.t
+END
+060-lua-memcached.t
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/060-lua-memcached.t
+END
+062-count.t
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/062-count.t
+END
+039-sub-o.t
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/039-sub-o.t
+END
+036-sub.t
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/036-sub.t
+END
+126-shdict-frag.t
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/126-shdict-frag.t
+END
+020-subrequest.t
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/020-subrequest.t
+END
+014-bugs.t
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/014-bugs.t
+END
+010-request_body.t
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/010-request_body.t
+END
+081-bytecode.t
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/081-bytecode.t
+END
+021-cookie-time.t
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/021-cookie-time.t
+END
+068-socket-keepalive.t
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/068-socket-keepalive.t
+END
+114-config.t
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/114-config.t
+END
+002-content.t
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/002-content.t
+END
+094-uthread-exit.t
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/094-uthread-exit.t
+END
+102-req-start-time.t
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/102-req-start-time.t
+END
+057-flush-timeout.t
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/057-flush-timeout.t
+END
+018-ndk.t
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/018-ndk.t
+END
+088-req-method.t
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/088-req-method.t
+END
+015-status.t
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/015-status.t
+END
+069-null.t
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/069-null.t
+END
+009-log.t
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/009-log.t
+END
+056-flush.t
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/056-flush.t
+END
+001-set.t
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/001-set.t
+END
+095-uthread-exec.t
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/095-uthread-exec.t
+END
+087-udp-socket.t
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/087-udp-socket.t
+END
+127-uthread-kill.t
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/127-uthread-kill.t
+END
+040-gsub-o.t
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/040-gsub-o.t
+END
+054-gsub-dfa.t
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/lua/lua-nginx-module-0.9.10/t/054-gsub-dfa.t
+END

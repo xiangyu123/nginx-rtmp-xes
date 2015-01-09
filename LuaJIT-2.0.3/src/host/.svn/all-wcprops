@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/host
+END
+buildvm_fold.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/host/buildvm_fold.c
+END
+buildvm.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/host/buildvm.h
+END
+genminilua.lua
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/host/genminilua.lua
+END
+buildvm_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/host/buildvm_lib.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/host/README
+END
+minilua.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/host/minilua.c
+END
+buildvm_peobj.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/host/buildvm_peobj.c
+END
+buildvm.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/host/buildvm.c
+END
+buildvm_asm.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/host/buildvm_asm.c
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/dynasm
+END
+dasm_arm.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/dynasm/dasm_arm.h
+END
+dasm_x86.lua
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/dynasm/dasm_x86.lua
+END
+dynasm.lua
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/dynasm/dynasm.lua
+END
+dasm_mips.lua
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/dynasm/dasm_mips.lua
+END
+dasm_ppc.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/dynasm/dasm_ppc.h
+END
+dasm_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/dynasm/dasm_proto.h
+END
+dasm_x86.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/dynasm/dasm_x86.h
+END
+dasm_mips.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/dynasm/dasm_mips.h
+END
+dasm_arm.lua
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/dynasm/dasm_arm.lua
+END
+dasm_x64.lua
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/dynasm/dasm_x64.lua
+END
+dasm_ppc.lua
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/dynasm/dasm_ppc.lua
+END

@@ -1,0 +1,17 @@
+ID                      200303000064
+Name                    NP
+Describe                Nginx ·¢²¼
+Behaviour               report
+Switch                  enable
+StartCmd                /etc/init.d/nginx.sh start
+StopCmd                 /etc/init.d/nginx.sh stop
+RestartCmd              /etc/init.d/nginx.sh restart
+ReloadCmd               /etc/init.d/nginx.sh reload
+GetVersion              /usr/local/nginx/sbin/nginx -v 2>&1 | awk '{print $NF}'
+PidFile                 /var/run/nginx.pid
+ProcessNamePattern      ^nginx: master process
+KeepLive                300s
+StartRetryInterval      300s
+MaxStartRetryTimes      3
+StopRetryInterval       300s
+MaxStopRetryTimes       1

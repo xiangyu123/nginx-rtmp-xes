@@ -1,0 +1,845 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src
+END
+lj_frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_frame.h
+END
+lib_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lib_string.c
+END
+lj_cconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_cconv.c
+END
+lj_cconv.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_cconv.h
+END
+lj_asm_mips.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_asm_mips.h
+END
+Makefile.dep
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/Makefile.dep
+END
+lj_bcread.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_bcread.c
+END
+lj_crecord.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_crecord.c
+END
+lj_target_mips.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_target_mips.h
+END
+lj_crecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_crecord.h
+END
+lj_udata.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_udata.c
+END
+lj_ff.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_ff.h
+END
+lj_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_def.h
+END
+lj_udata.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_udata.h
+END
+lj_opt_dce.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_opt_dce.c
+END
+vm_mips.dasc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/vm_mips.dasc
+END
+lj_vmevent.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_vmevent.c
+END
+lj_ctype.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_ctype.c
+END
+vm_ppc.dasc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/vm_ppc.dasc
+END
+lualib.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lualib.h
+END
+lj_vmevent.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_vmevent.h
+END
+lj_ctype.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_ctype.h
+END
+lj_ffrecord.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_ffrecord.c
+END
+lj_alloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_alloc.c
+END
+lj_opt_loop.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_opt_loop.c
+END
+lj_jit.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_jit.h
+END
+lj_vmmath.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_vmmath.c
+END
+lj_target_ppc.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_target_ppc.h
+END
+lj_ffrecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_ffrecord.h
+END
+vm_ppcspe.dasc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/vm_ppcspe.dasc
+END
+lj_alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_alloc.h
+END
+lua.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lua.h
+END
+lj_emit_arm.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_emit_arm.h
+END
+lj_iropt.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_iropt.h
+END
+lj_opt_fold.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_opt_fold.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/Makefile
+END
+lj_ir.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_ir.c
+END
+lj_ircall.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_ircall.h
+END
+lib_bit.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lib_bit.c
+END
+lj_ir.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_ir.h
+END
+lj_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_debug.c
+END
+lib_jit.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lib_jit.c
+END
+lib_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lib_table.c
+END
+lj_asm_x86.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_asm_x86.h
+END
+lj_emit_mips.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_emit_mips.h
+END
+lj_debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_debug.h
+END
+lib_package.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lib_package.c
+END
+lib_aux.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lib_aux.c
+END
+lj_ccallback.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_ccallback.c
+END
+lj_ccallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_ccallback.h
+END
+lib_ffi.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lib_ffi.c
+END
+lj_str.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_str.c
+END
+xedkbuild.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/xedkbuild.bat
+END
+lj_traceerr.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_traceerr.h
+END
+lj_str.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_str.h
+END
+ps4build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/ps4build.bat
+END
+lj_mcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_mcode.c
+END
+lj_func.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_func.c
+END
+lj_mcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_mcode.h
+END
+lj_func.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_func.h
+END
+lj_opt_mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_opt_mem.c
+END
+lj_snap.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_snap.c
+END
+lib_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lib_init.c
+END
+lj_emit_ppc.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_emit_ppc.h
+END
+lj_snap.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_snap.h
+END
+luaconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/luaconf.h
+END
+lib_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lib_io.c
+END
+lj_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_api.c
+END
+lj_obj.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_obj.c
+END
+lib_base.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lib_base.c
+END
+lj_cdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_cdata.c
+END
+lj_load.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_load.c
+END
+lj_obj.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_obj.h
+END
+lj_cdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_cdata.h
+END
+ljamalg.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/ljamalg.c
+END
+lj_meta.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_meta.c
+END
+lj_err.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_err.c
+END
+lj_opt_narrow.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_opt_narrow.c
+END
+lib_math.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lib_math.c
+END
+lj_meta.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_meta.h
+END
+lj_err.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_err.h
+END
+lj_target_x86.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_target_x86.h
+END
+lj_errmsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_errmsg.h
+END
+lj_tab.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_tab.c
+END
+lj_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_lib.c
+END
+lj_parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_parse.c
+END
+lj_carith.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_carith.c
+END
+lj_tab.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_tab.h
+END
+lj_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_lib.h
+END
+lj_cparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_cparse.c
+END
+lj_ccall.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_ccall.c
+END
+lj_record.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_record.c
+END
+lj_parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_parse.h
+END
+lj_carith.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_carith.h
+END
+lj_state.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_state.c
+END
+lj_asm.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_asm.c
+END
+lj_cparse.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_cparse.h
+END
+lj_ccall.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_ccall.h
+END
+lj_record.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_record.h
+END
+lj_asm_arm.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_asm_arm.h
+END
+lj.supp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj.supp
+END
+lj_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_state.h
+END
+lj_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_asm.h
+END
+lib_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lib_debug.c
+END
+msvcbuild.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/msvcbuild.bat
+END
+lj_lex.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_lex.c
+END
+lj_gc.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_gc.c
+END
+vm_x86.dasc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/vm_x86.dasc
+END
+lj_lex.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_lex.h
+END
+lj_gc.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_gc.h
+END
+lj_trace.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_trace.c
+END
+lj_dispatch.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_dispatch.c
+END
+lj_trace.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_trace.h
+END
+lj_gdbjit.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_gdbjit.c
+END
+luajit.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/luajit.c
+END
+lj_dispatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_dispatch.h
+END
+lj_gdbjit.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_gdbjit.h
+END
+luajit.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/luajit.h
+END
+lj_strscan.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_strscan.c
+END
+lauxlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lauxlib.h
+END
+lj_strscan.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_strscan.h
+END
+lib_os.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lib_os.c
+END
+lj_bc.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_bc.c
+END
+vm_arm.dasc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/vm_arm.dasc
+END
+lj_bc.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_bc.h
+END
+lj_bcwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_bcwrite.c
+END
+lua.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lua.hpp
+END
+lj_emit_x86.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_emit_x86.h
+END
+lj_clib.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_clib.c
+END
+lj_char.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_char.c
+END
+lj_opt_split.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_opt_split.c
+END
+lj_clib.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_clib.h
+END
+lj_bcdump.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_bcdump.h
+END
+lj_arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_arch.h
+END
+lj_char.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_char.h
+END
+lj_opt_sink.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_opt_sink.c
+END
+lj_vm.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_vm.h
+END
+lj_asm_ppc.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_asm_ppc.h
+END
+lj_target_arm.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_target_arm.h
+END
+lj_target.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/chinacache/!svn/ver/4444/branches/ccms-nginx/common-libs/LuaJIT-2.0.3/src/lj_target.h
+END
